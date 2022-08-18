@@ -1,3 +1,3 @@
-module github.com/icoretchi/greenlight-proto/order
+module github.com/icoretchi/bluelight-proto/order
 
 go 1.19

@@ -1,4 +1,4 @@
-module github.com/icoretchi/greenlight-proto/golang/order
+module github.com/icoretchi/bluelight-proto/golang/order
 
 go 1.19
 
